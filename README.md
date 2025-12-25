@@ -24,12 +24,10 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadiya758&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadiya758&theme=tokyonight" />
-</p>
-
+## 📊 GitHub Stats  
+![Nadiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiya758&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiya758&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nadiya758&theme=radical)  
 
 ---
 
