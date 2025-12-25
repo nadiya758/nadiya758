@@ -1,6 +1,5 @@
 # readme
-<h1 align="center">Software Developer | Python & Machine Learning</h1>.
-
+<h1 align="center">CortexNadya – intelligent and professional.</h1>
 ---
 
 ## 🔹 About Me
