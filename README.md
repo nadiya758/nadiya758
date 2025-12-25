@@ -1,5 +1,5 @@
 # readme
-<h1 align="center">Software Developer | Python & Machine Learning</h1>
+<h1 align="center">Software Developer | Python & Machine Learning</h1>.
 
 ---
 
