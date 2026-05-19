@@ -51,6 +51,7 @@
 ![Seaborn](https://img.shields.io/badge/seaborn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-007ACC?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Data Science](https://img.shields.io/badge/Data%20Science-106EEA?style=for-the-badge&logo=dataiku&logoColor=white)
 
 
 
