@@ -1,74 +1,82 @@
-# readme
-<h1 align="center">CortexNadia – intelligent and professional.</h1>
----
 
-## 🔹 About Me
-- 🔭 Looking for opportunities in **Python Development / Machine Learning**
-- 🌱 Currently learning **Machine Learning, Django, and Data Analysis**
-- 💡 Passionate about **Problem Solving, DSA, and AI**
-- 👯 Open to collaborating on **open-source & ML projects**
-- 🤝 Enjoy sharing knowledge and learning from the community
-- ⚡ Fun fact: I enjoy working with data and automating tasks
+# Hi, I'm Nadia Jahan 👋
+
+### AI Automation Developer | Computer Technology Student
+
+I am a Diploma student in Computer Technology with a strong interest in AI Automation, Machine Learning, and AI-powered applications.
+
+I enjoy building practical projects using workflow automation, APIs, and AI technologies. Currently, I am improving my skills in Python, FastAPI, RAG systems, and AI Agent development.
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://github.com/nadiya758" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:nadia21jahan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 🎯 About Me
+
+- 🎓 Diploma in Computer Technology — Bangladesh Sweden Polytechnic Institute
+- 🤖 Interested in AI Automation, RAG Systems, and AI Agents
+- 🔧 Building practical projects with n8n, Python, and AI APIs
+- 📚 Currently learning AI Agent Development and Backend Integration
+- 🌱 Looking for Remote AI Automation Internship opportunities
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadiya758&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadiya758&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiya758&layout=compact&theme=tokyonight" />
-</p>
-  
+## 🛠️ Technical Skills
+
+**Programming**
+- Python (Beginner)
+
+**Automation & Integration**
+- n8n
+- REST API Basics
+- Webhooks
+- Workflow Automation
+
+**AI & Machine Learning**
+- Machine Learning Fundamentals
+- Gemini API
+- Prompt Engineering
+- RAG Fundamentals
+- Embeddings
+
+**Backend & Database**
+- FastAPI (Beginner)
+- Qdrant (Beginner)
+
+**Tools**
+- GitHub
+- VS Code
+- Jupyter Notebook
+- MS Word & Excel (Basic)
 
 ---
 
-## 👀 Profile Views
-<img src="https://komarev.com/ghpvc/?username=nadiya758&label=Profile%20views&color=0e75b6&style=flat" />
+## 🚀 Featured Projects
+
+### 1. AI Document Q&A System (RAG)
+
+A document question-answering system that allows users to upload PDF documents and retrieve relevant answers.
+
+**Technologies:** Python, FastAPI, Gemini API, Qdrant
+
+🔗 [View Project Repository](https://github.com/nadiya758/rag-document-qa-system)
+
+### 2. n8n Workflow Automation
+
+Practical workflow automation projects using n8n, APIs, and webhooks.
 
 ---
 
-## 🛠 Skills & Tools
+## 🎓 Training & Certifications
 
-### 🐍 Programming & Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- **Machine Learning with Python** — IICT, CUET (April–May 2026)
+- **National Skills Certificate in IT Support Service — Level 3** — NSDA
 
-### 📊 Data & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/seaborn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-007ACC?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Data Science](https://img.shields.io/badge/Data%20Science-106EEA?style=for-the-badge&logo=dataiku&logoColor=white)
+---
 
+## 📫 Connect With Me
 
+- GitHub: [nadiya758](https://github.com/nadiya758)
+- Email: Add your professional email here
 
+---
 
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-
-
-
-
-
-
-### 🤖 Automation & Workflows
-![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+*Always learning, building, and improving through practical projects.*
