@@ -75,7 +75,7 @@ Practical workflow automation projects using n8n, APIs, and webhooks.
 ## 📫 Connect With Me
 
 - GitHub: [nadiya758](https://github.com/nadiya758)
-- Email: Add your professional email here
+- Email: nadia21jannat@gmail.com
 
 ---
 
