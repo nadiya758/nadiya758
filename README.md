@@ -64,7 +64,15 @@ A document question-answering system that allows users to upload PDF documents a
 Practical workflow automation projects using n8n, APIs, and webhooks.
 
 ---
+### 📚 Learning & Practice
 
+I continuously improve my programming and machine learning skills through hands-on practice.
+
+- **Python, Pandas & Data Analysis:** [Learning & Practice Repository](https://github.com/nadiya758/Learnning-Practics)
+- **Machine Learning:** Logistic Regression, Decision Tree, KNN, Linear Regression and other practice notebooks.
+- **Data Visualization:** Matplotlib and Seaborn.
+
+---
 ## 🎓 Training & Certifications
 
 - **Machine Learning with Python** — IICT, CUET (April–May 2026)
