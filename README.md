@@ -86,5 +86,9 @@ I continuously improve my programming and machine learning skills through hands-
 - Email: nadia21jannat@gmail.com
 
 ---
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=nadiya758&style=flat-square&color=blue)
+---
 
 *Always learning, building, and improving through practical projects.*
